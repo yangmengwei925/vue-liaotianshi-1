@@ -28,7 +28,7 @@
     "redis": "^2.8.0",
     "rimraf": "^2.6.0",
     "shelljs": "^0.7.6",
-    "socket.io": "^1.7.3",
+    "socket.io": "^2.4.0",
     "superagent": "^3.5.2",
     "vivus": "^0.4.1",
     "webpack-merge": "^4.2.1",
